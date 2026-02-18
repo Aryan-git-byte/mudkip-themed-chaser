@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "production/")
 		)
 	)
 	(net 0 "")
@@ -8209,6 +8209,19 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ffc037f8-3833-4f72-84a5-498048eef9dc")
+	)
+	(gr_text "no idea :("
+		(at 169 95.4 0)
+		(layer "B.SilkS")
+		(uuid "3dfd756f-d53f-4229-96c3-88ff2c8f4048")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify mirror)
+		)
 	)
 	(gr_text "10000x weak to\nwater"
 		(at 160.6 101 0)
